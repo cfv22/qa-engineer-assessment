@@ -1,7 +1,7 @@
 
 ### QA Engineer Assessment - React Todo App
 
-Welcome to the Gesture Tech QA Engineer take-home challenge!
+Welcome to the OST Tech QA Engineer take-home challenge!
 
 In this repository, you will find the code for the **React Todo App**. Your task is to create comprehensive automated tests based on the specified requirements to ensure the application's functionality and reliability.
 
@@ -37,7 +37,7 @@ Follow these instructions to set up and run the application locally for testing 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Gesture-Tech/qa-engineer-assessment.git
+   git clone https://github.com/ManuMahia-OST/qa-engineer-assessment
    cd qa-engineer-assessment
    ```
 

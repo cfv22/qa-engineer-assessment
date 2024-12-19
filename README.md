@@ -67,6 +67,17 @@ Execute the test suite:
 npm test
 ```
 
+For running cypress tests do:
+
+To run on headless mode:
+
+```npx cypress run ```
+
+
+To run on UI mode:
+
+```npx cypress open```
+
 This command will run all tests in watch mode.
 
 ## 📄 Submission
